@@ -1,0 +1,57 @@
+body {
+	padding: 31px 0 0 0;
+}
+
+#loginout {
+	color: #c3def1;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 1em;
+	top: 7px;
+}
+
+#loginout a {
+	text-decoration: none;
+}
+
+#loginout a:hover {
+	text-decoration: underline;
+}
+
+#loginout a, #loginout a:hover {
+	color: #fff;
+}
+
+#oceiabar {
+	background: #14568a;
+	font: 12px \"lucida grande\", \"lucida sans unicode\", \"tahoma\", sans-serif;
+	height: 30px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+#quicklinks ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#quicklinks li {
+	float: left;
+}
+
+#quicklinks a {
+	color: #c3def1;
+	display: block;
+	font-weight: normal;
+	padding: .5em 1em;
+	text-decoration: none;
+}
+
+#quicklinks a:hover {
+	background: #6da6d1;
+	color: #000;
+}
