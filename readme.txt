@@ -33,7 +33,7 @@ Note that if you do choose to use custom CSS, Oceia bar takes out all the `!impo
 
 == Frequently Asked Questions ==
 = What's the license? =
-Oceia bar is released under the GNU General Public License. See [http://gnu.org/copyleft/gpl.html])http://gnu.org/copyleft/gpl.html)
+Oceia bar is released under the GNU General Public License. See [http://gnu.org/copyleft/gpl.html](http://gnu.org/copyleft/gpl.html)
 
 = Uggh! My bar is showing up in the wrong place! =This can be an issue in some themes, since certain positions in CSS can override Oceia bar's position: absolute;. Generally you can resolve this by making sure `wp_footer();` is not contained within any elements other than the `<body>`.
 
